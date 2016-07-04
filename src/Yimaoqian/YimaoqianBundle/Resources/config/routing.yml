@@ -1,0 +1,3 @@
+yimaoqian_yimaoqian_homepage:
+    path:     /
+    defaults: { _controller: YimaoqianYimaoqianBundle:Default:index }
